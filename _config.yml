@@ -1,6 +1,19 @@
-title: Minimal theme
+title: <p align="center"> Sankar Thulasimani </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="linkedin.com/in/sankar-thulasimani-59877442">LinkedIn</a> |
+  <a href="https://github.com/sankarthulasimani">GitHub</a>
+  
+  <br>   
+  I'm working as a SAP Hybris Developer in ecommerce company.
+  Also, working on multiple machine learning projects as part
+  of additional requirement fot the current project.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
